@@ -1,7 +1,7 @@
-name: PowerfulPerms
-main: com.github.gustav9797.PowerfulPerms.PowerfulPerms
+name: Powerful Recode
+main: com.github.gizmo0320.PowerfulPerms.PowerfulPerms
 version: ${version}
-author: gustav9797
+author: gizmo0320
 softdepend: [Vault]
 load: startup
 
