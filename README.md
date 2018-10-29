@@ -1,1 +1,1 @@
-# PP
+# PPerms is a Recode of the Popular Permissions Plugin PowerFul Perms
